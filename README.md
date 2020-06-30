@@ -18,4 +18,4 @@ Code for the paper "Discount Factor as a Regularizer in Reinforcement Learning",
 
 
 
-DDPG and TD3 code is based on: (https://github.com/sfujim/TD3)
+DDPG and TD3 code is based on: https://github.com/sfujim/TD3
