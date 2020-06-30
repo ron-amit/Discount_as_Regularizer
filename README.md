@@ -9,15 +9,16 @@ DDPG and TD3 code is based on: https://github.com/sfujim/TD3
 
 - Python 3.7
 - NumPy and Matplotlib
-- Ray  0.84 (https://docs.ray.io/en/master/index.html)
+- [Ray](https://docs.ray.io/en/master/index.html)   0.84
 
 ## Requiremnts for Mujoco Experiments
 
-- PyTorch 1.5.1 with CUDA (http://pytorch.org)
-- mujoco-py 2.0.2.8 (https://github.com/openai/mujoco-py)
+- [PyTorch](http://pytorch.org)  1.5.1 with CUDA
+- [mujoco-py](https://github.com/openai/mujoco-py) 2.0.2.8
 
 
 ## Reproducing Results
+All results are saved in this [zip file](https://drive.google.com/file/d/1Z-qs_AdvhfGdFsEa1NCbkZUtGGg5ShEW/view?usp=sharing) (including complete parameters, raw results, and figures).
 
 
 
