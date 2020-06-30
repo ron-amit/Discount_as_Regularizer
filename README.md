@@ -14,6 +14,8 @@ DDPG and TD3 code is based on: https://github.com/sfujim/TD3
 ## Requiremnts for Mujoco Experiments
 
 - [PyTorch](http://pytorch.org)  1.5.1 with CUDA
+- [Gym](https://gym.openai.com/) 0.17.1
+- [Mujoco](http://mujoco.org/) 1.50 
 - [mujoco-py](https://github.com/openai/mujoco-py) 2.0.2.8
 
 
