@@ -8,7 +8,7 @@ DDPG and TD3 code is based on: https://github.com/sfujim/TD3
 ## Basic Requiremnts
 
 - Python 3.7
-- NumPy and Matplotlib
+- [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), and [seaborn](https://seaborn.pydata.org/)
 - [Ray](https://docs.ray.io/en/master/index.html)   0.84
 
 ## Requiremnts for Mujoco Experiments
