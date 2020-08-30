@@ -1,7 +1,7 @@
 # Discount Factor as a Regularizer in Reinforcement Learning
 
 Code for the paper "Discount Factor as a Regularizer in Reinforcement Learning", Ron Amit, Ron Meir, Kamil Ciosek, ICML 2020.
- [[Paper]](https://arxiv.org/abs/2007.02040)   [Slides](https://drive.google.com/file/d/1qESYUOXKnWRfzF126J9iB6f9dneocW0_/view?usp=sharing)  [video](https://icml.cc/virtual/2020/poster/6021) [bib](https://docs.google.com/document/d/e/2PACX-1vRP5PfS-hLwOXTWFBHFG9T6F_AgCY4ODCvrvWOWCKnWYJgW2Ghaa89tft2gFs0FbgPGt2W6946hswVh/pub)
+ [[Paper]](https://arxiv.org/abs/2007.02040)   [Slides](https://drive.google.com/file/d/1qESYUOXKnWRfzF126J9iB6f9dneocW0_/view?usp=sharing)  [[Video]](https://icml.cc/virtual/2020/poster/6021) [[bib]](https://docs.google.com/document/d/e/2PACX-1vRP5PfS-hLwOXTWFBHFG9T6F_AgCY4ODCvrvWOWCKnWYJgW2Ghaa89tft2gFs0FbgPGt2W6946hswVh/pub)
 
 DDPG and TD3 code is based on: https://github.com/sfujim/TD3
 
