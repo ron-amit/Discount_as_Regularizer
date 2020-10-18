@@ -28,7 +28,7 @@ result_dir_to_load = './saved/main_MRP/2020_06_16_15_31_31'
 
 # Plot options:
 save_PDF = False  # False/True - save figures as PDF file in the result folder
-y_lim = [6,16]  # [75, 85] | None
+y_lim = None # [75, 85] | None
 legend_loc = 'best' # | 'best'| 'upper left'
 show_stars = True
 # -------------------------------------------------------------------------------------------
