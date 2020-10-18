@@ -150,7 +150,7 @@ def sample_simplex(n):
     v /= np.sum(v)
     return v
 # ------------------------------------------------------------------------------------------------------------~
-# @jit(nopython=True)
+
 # def sample_simplex(n):
 #     """
 #     Randomly (uniform) draw vector from n-simplex
